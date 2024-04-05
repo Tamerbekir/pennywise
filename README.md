@@ -14,6 +14,11 @@
 To use Penny Wise you only need to navigate [this link](https://pennywise-47773ea2b3e1.herokuapp.com/).
 
 ### VIDEO OR SCREENSHOTS ###
+![screenshot1](https://github.com/marphco/pennywise/assets/5993166/707959aa-67a7-4d03-898b-27e4e36e03f1)
+
+![screenshot2](https://github.com/marphco/pennywise/assets/5993166/633bd98a-c290-45ed-b8e4-d614e3fdae65)
+
+![screenshot3](https://github.com/marphco/pennywise/assets/5993166/2ecfeb3e-f74a-484f-993b-a267415888f1)
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
